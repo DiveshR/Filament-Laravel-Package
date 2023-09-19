@@ -30,3 +30,7 @@ php artisan filament:install --panels
 php artisan vendor:publish //complete list of configurations
 php artisan vendor:publish --tag=filament-config
 ```
+
+# Change Color Theme ,Font Family, Logo Favicon, Disable Dark Mode
+<img width="1280" alt="Screenshot 2023-09-19 at 11 06 10 PM" src="https://github.com/DiveshR/Filament-Laravel-Package/assets/25860707/af32660b-a6ca-4f9a-8c54-cba576061388">
+
