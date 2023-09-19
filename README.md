@@ -30,3 +30,5 @@ php artisan filament:install --panels
 php artisan vendor:publish //complete list of configurations
 php artisan vendor:publish --tag=filament-config
 ```
+
+# Change Color Theme ,Font Family, Logo Favicon, Disable Dark Mode
