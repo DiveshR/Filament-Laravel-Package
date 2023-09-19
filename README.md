@@ -25,3 +25,8 @@ php artisan filament:install --panels
   php artisan make:filament-user                  // Create a new Filament user
   php artisan make:filament-widget                // Create a new Filament widget class
 ```
+
+```php
+php artisan vendor:publish //complete list of configurations
+php artisan vendor:publish --tag=filament-config
+```
